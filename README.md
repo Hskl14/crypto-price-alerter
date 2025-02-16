@@ -57,17 +57,12 @@ Ensure you have the following installed:
 | POST   | /api/v1/alert/upsert-alert      | Create or update alert  |
 | GET    | /api/v1/alert/alerts/:ticker/:id/ | Get alert/alerts       |
 
+[**Postman**](https://documenter.getpostman.com/view/6160378/2sAYXEFJHp)
+
 ## Running Tests
 Run unit tests with:
 ```sh
 npm test
 ```
-
-## CI/CD Integration
-- GitHub Actions for automated testing and deployment.
-
-## License
-MIT License. See `LICENSE` for details.
-
 
 
